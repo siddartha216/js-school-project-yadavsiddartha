@@ -1,13 +1,15 @@
 # Timeline Project
 
-## Stage 1 Description
+## Stage 2 Description
 
-This is the initial HTML structure for the timeline project. It includes:
+HTML and CSS. It includes:
 
-- A header with logo and theme toggle placeholder
-- Navigation container for future filters
-- Main timeline section for event markers
-- Modal container for future pop-ups
-- Semantic HTML structure
+A stylish header with a logo and a call-to-action button
 
-Next steps will involve adding CSS styling and JavaScript functionality.
+A vertical timeline with alternating event blocks and marker dots
+
+A modal pop-up (hidden by default) for future use
+
+A minimal, centered footer
+
+The design uses Flexbox, media queries, and clean CSS practices to ensure the layout is responsive across all screen sizes — mobile, tablet, and desktop.
