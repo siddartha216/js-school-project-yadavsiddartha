@@ -1,0 +1,58 @@
+[
+  {
+    "year": "1990",
+    "title": "Launch of Hubble Telescope",
+    "description": "NASA launches the Hubble Space Telescope, revolutionizing astronomy.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/3f/HST-SM4.jpeg",
+    "category": "Science"
+  },
+  {
+    "year": "2004",
+    "title": "Facebook Founded",
+    "description": "Mark Zuckerberg launches Facebook from his Harvard dorm room.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "category": "Technology"
+  },
+  {
+    "year": "1969",
+    "title": "Moon Landing",
+    "description": "Neil Armstrong becomes the first human to step on the Moon.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Apollo_11_Lunar_Module.jpg",
+    "category": "Space"
+  },
+  {
+    "year": "1989",
+    "title": "Fall of Berlin Wall",
+    "description": "The Berlin Wall falls, symbolizing the end of the Cold War.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Fall_of_the_Berlin_Wall.jpg",
+    "category": "History"
+  },
+  {
+    "year": "2007",
+    "title": "First iPhone Released",
+    "description": "Apple releases the first iPhone, changing mobile technology forever.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/fa/IPhone_Original.svg",
+    "category": "Technology"
+  },
+  {
+    "year": "2020",
+    "title": "COVID-19 Pandemic",
+    "description": "The world faces a global pandemic, impacting all aspects of life.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Coronavirus_SARS-CoV-2.jpg",
+    "category": "Health"
+  },
+  {
+    "year": "1995",
+    "title": "Windows 95 Launch",
+    "description": "Microsoft launches Windows 95, a major milestone in PC history.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Windows_logo_-_1992%E2%80%932001_%28black%29.svg",
+    "category": "Technology"
+  },
+  {
+    "year": "2012",
+    "title": "Curiosity Rover Lands on Mars",
+    "description": "NASA's Curiosity rover lands on Mars to explore the planet's surface.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/PIA17043_-_Curiosity_self-portrait_at_%27Rock_Nest%27.jpg",
+    "category": "Space"
+  }
+]
