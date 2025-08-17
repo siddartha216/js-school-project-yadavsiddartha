@@ -1,13 +1,22 @@
-# Timeline Project
 
-## Stage 1 Description
 
-This is the initial HTML structure for the timeline project. It includes:
+# Timeline App – Stage 4: Static Typing & Modular Code
 
-- A header with logo and theme toggle placeholder
-- Navigation container for future filters
-- Main timeline section for event markers
-- Modal container for future pop-ups
-- Semantic HTML structure
+This stage introduces **TypeScript** with **strict typing** and a **modular architecture** to improve maintainability and scalability.
 
-Next steps will involve adding CSS styling and JavaScript functionality.
+---
+
+## 🚀 What’s New in Stage 4
+- Added **TypeScript** (`tsconfig.json` with strict mode enabled).
+- Converted `script.js` → `src/index.ts`.
+- Introduced **interfaces and types** for event data.
+- Codebase split into **modules**:
+  - `fetcher.ts` → Handles fetching event data from `events.json`.
+  - `renderer.ts` → Renders timeline events on the page.
+  - `modal.ts` → Manages modal popup functionality.
+- Added **build scripts** (`tsc`) to compile TypeScript into a `dist/` folder.
+- Verified that the app still runs in the browser using the compiled JS.
+
+---
+
+## 📂 Project Structure
